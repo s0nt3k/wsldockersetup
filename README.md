@@ -1,1 +1,3 @@
 # wsldockersetup
+
+ - [ ] wsl --install debian
